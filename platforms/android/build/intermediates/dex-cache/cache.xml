@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_sdk/0.16.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cfcc5fc657d64c980b45db00cd75695d1ce2256">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/com.taobao.android-weex_sdk-0.16.0_be25c68d30170b802ebd6430148b1501c3db0543.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.3.0/1b355f73402020c5a0dcca58affc3ec3dfeabac1/okio-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/okio-1.3.0_39545844b7476ede5d92638853d1565de3436b35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/.m2/repository/com/google/code/findbugs/jsr305/2.0.1/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/jsr305-2.0.1_afd3e6e4ed774b83a51f208aa1e40536383a7605.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_689f49f544b6dfcfde2285fe132abdf1c7515776.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_b49c7909312c182f91ab398928a04cb1ba5063e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_298738338f0a228841641a50725047c257e89a45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.3.0/7896d229b6aa7884552ab9c23de54c7eb0de8203/okhttp-ws-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7896d229b6aa7884552ab9c23de54c7eb0de8203">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.3.0_9f46c0f79aa27cb33cd19f0cbe348bda49f3659b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.3.0/2e7bc7033dc2c8423e661224171b3133fb155b28/okhttp-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/okhttp-2.3.0_e77aa18542f26827687f4ce6fe82e82b1aca96f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_0d11481da5ce71b6df2bfd3661227cff622842f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_a20ed0737fd8a361ff581720a89ff80fea0e6907.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/.gradle/caches/modules-2/files-2.1/com.taobao.android/weexplugin-processor/1.3/90f4c5cdb14a255dd3cc341b563271494e8cd941/weexplugin-processor-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="90f4c5cdb14a255dd3cc341b563271494e8cd941">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/weexplugin-processor-1.3_b1219120317186d48a587720515baccd9640e0a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_c02190d39ed3b82a365ae91a885abaf5a285d585.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_1c334d29d65bdd7f215fc33ccf9e0cb6088cdb52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/.gradle/caches/modules-2/files-2.1/com.taobao.android/weexplugin-annotation/1.3/f9c594cafe95ab01986863300b2f2993b5777b42/weexplugin-annotation-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9c594cafe95ab01986863300b2f2993b5777b42">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/weexplugin-annotation-1.3_5ff7e47f95dc88c0df49f4f3abc7dd37f9f90d67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e1f104cf60bfe34147ef670229f2635789c79a4">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-3.4.0_051a8e08f63fb4275661f4cc005bb9ab0c1dd386.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_025a4dcfc0eef9ed5fac3ecb1b2cc8393a5ece1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_c9685650b222d65eba8bd4fc9347f62f86a03d47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_11370820dcad5d67328627bfb0dab5125e2cbd6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_fce9b7dc90ebb0dfa36f7ec8abe994a17f98ec27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_b8b15ab8e5fe73bd059f15b1de37081e80257bf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_c734c216b0d4325fb96ea1220f921a94d1347e46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.1.46.android/108717c93f7aec31fb86db57cb4ad1e26034c638/fastjson-1.1.46.android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="108717c93f7aec31fb86db57cb4ad1e26034c638">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/fastjson-1.1.46.android_5a5bb2a437c7d7a7041b528133f458d57ba632f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_f62b9508e3a6a7e1770934451fe774cc7c7dbbdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_a41c3e9b7a044f578ba15c968eae7cbfdf66f6a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_29c4ecef1ecf8a982f6b9822be5d2fa93e12cb94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_a3e9f7a0e0cb31335b30edbc08ea9be6d0cdff59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_inspector/0.10.0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="575d72d4a489260763ca62b2b54450fdec3bebd1">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/com.taobao.android-weex_inspector-0.10.0.5_b46653853e5190fd03b7fcd6447ff0b0b75346cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_3aaeca4e70caa1770a0666895de51c9058e091fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_256c8145847f8b7edd8679ee919e650642a726dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/exploded-aar/com.taobao.android/weexplugin-loader/1.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c85f46e9eed1cccfd0bf5df199dd53a66de98651">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/com.taobao.android-weexplugin-loader-1.3_f0512444bdebdebf71c202108ad72cbd977daae5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/liuhao/Desktop/weex/demo/platforms/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_19e65b5c128ab9b13cf8a252377a2c50566f0a87.jar" />
+    </item>
+
+</items>
